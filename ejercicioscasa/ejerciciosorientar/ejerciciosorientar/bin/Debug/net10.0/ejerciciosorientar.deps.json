@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejerciciosorientar/1.0.0": {
+        "runtime": {
+          "ejerciciosorientar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerciciosorientar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

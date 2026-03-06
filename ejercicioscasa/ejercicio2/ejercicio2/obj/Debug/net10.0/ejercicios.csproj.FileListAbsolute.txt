@@ -1,0 +1,4 @@
+C:\Users\juan\Documents\GitHub\ejercicioscasa\ejercicio2\ejercicio2\obj\Debug\net10.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\ejercicioscasa\ejercicio2\ejercicio2\obj\Debug\net10.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\ejercicio2\ejercicio2\obj\Debug\net10.0\ejercicios.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\ejercicioscasa\ejercicio2\ejercicio2\obj\Debug\net10.0\ejercicios.csproj.CoreCompileInputs.cache
