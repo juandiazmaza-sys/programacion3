@@ -1,0 +1,14 @@
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\net10.0\Sistema_Restaurante_Cocina.exe
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\net10.0\Sistema_Restaurante_Cocina.deps.json
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\net10.0\Sistema_Restaurante_Cocina.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\net10.0\Sistema_Restaurante_Cocina.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\net10.0\Sistema_Restaurante_Cocina.pdb
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\refint\Sistema_Restaurante_Cocina.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.pdb
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\Sistema_Restaurante_Cocina.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\net10.0\ref\Sistema_Restaurante_Cocina.dll

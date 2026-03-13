@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\refint\BIBLIOTECA.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\BIBLIOTECA\BIBLIOTECA\obj\Debug\net10.0\ref\BIBLIOTECA.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\controldeinventario\\controldeinventario.csproj",
+      "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\controldeinventario.csproj",
       "projectName": "controldeinventario",
-      "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\controldeinventario\\controldeinventario.csproj",
+      "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\controldeinventario.csproj",
       "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\controldeinventario\\obj\\",
+      "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

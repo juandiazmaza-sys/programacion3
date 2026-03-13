@@ -1,0 +1,14 @@
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\bin\Debug\net10.0\Consesionario_de_veiculos.exe
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\bin\Debug\net10.0\Consesionario_de_veiculos.deps.json
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\bin\Debug\net10.0\Consesionario_de_veiculos.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\bin\Debug\net10.0\Consesionario_de_veiculos.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\bin\Debug\net10.0\Consesionario_de_veiculos.pdb
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\refint\Consesionario_de_veiculos.dll
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.pdb
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\Consesionario_de_veiculos.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\ejercicioscasa\Consesionario_de_veiculos\Consesionario_de_veiculos\obj\Debug\net10.0\ref\Consesionario_de_veiculos.dll

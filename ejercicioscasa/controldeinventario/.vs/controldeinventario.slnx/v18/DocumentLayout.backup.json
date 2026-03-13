@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\",
+  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{277F507D-B128-42CB-B15D-4FF9EB9CA1E4}|controldeinventario\\controldeinventario.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\controldeinventario\\controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277F507D-B128-42CB-B15D-4FF9EB9CA1E4}|controldeinventario\\controldeinventario.csproj|solutionrelative:controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDB8FFA7-DAA4-3BC6-5BD9-BEA0DEA6662E}|controldeinventario\\controldeinventario.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB8FFA7-DAA4-3BC6-5BD9-BEA0DEA6662E}|controldeinventario\\controldeinventario.csproj|solutionrelative:controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\controldeinventario\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\Program.cs",
               "RelativeDocumentMoniker": "controldeinventario\\Program.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\controldeinventario\\controldeinventario\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\controldeinventario\\controldeinventario\\Program.cs",
               "RelativeToolTip": "controldeinventario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:22:57.175Z",
               "EditorCaption": ""
