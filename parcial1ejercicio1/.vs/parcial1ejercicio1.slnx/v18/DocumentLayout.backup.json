@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|c:\\users\\juan\\documents\\github\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|solutionrelative:parcial1ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|c:\\users\\juan\\documents\\github\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|solutionrelative:parcial1ejercicio1\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|c:\\users\\juan\\documents\\github\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\gestorpacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|solutionrelative:parcial1ejercicio1\\gestorpacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|c:\\users\\juan\\documents\\github\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\igestionable\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5595ED6E-2D2F-B77F-987C-9B65F92F0BE1}|parcial1ejercicio1\\parcial1ejercicio1.csproj|solutionrelative:parcial1ejercicio1\\igestionable\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "especie.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\enum\\especie.cs",
+              "RelativeDocumentMoniker": "parcial1ejercicio1\\enum\\especie.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\enum\\especie.cs",
+              "RelativeToolTip": "parcial1ejercicio1\\enum\\especie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:53:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\GestorPacientes\\Paciente.cs",
+              "RelativeDocumentMoniker": "parcial1ejercicio1\\GestorPacientes\\Paciente.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\GestorPacientes\\Paciente.cs*",
+              "RelativeToolTip": "parcial1ejercicio1\\GestorPacientes\\Paciente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:52:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "parcial1ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\Program.cs*",
+              "RelativeToolTip": "parcial1ejercicio1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:51:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crud.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\IGestionable\\crud.cs",
+              "RelativeDocumentMoniker": "parcial1ejercicio1\\IGestionable\\crud.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\parcial1ejercicio1\\parcial1ejercicio1\\IGestionable\\crud.cs",
+              "RelativeToolTip": "parcial1ejercicio1\\IGestionable\\crud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:51:25.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

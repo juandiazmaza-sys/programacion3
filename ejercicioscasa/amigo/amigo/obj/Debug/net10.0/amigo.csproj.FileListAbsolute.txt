@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\bin\Debug\net10.0\amigo.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\bin\Debug\net10.0\amigo.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\bin\Debug\net10.0\amigo.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\bin\Debug\net10.0\amigo.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\bin\Debug\net10.0\amigo.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\refint\amigo.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\amigo.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\amigo\amigo\obj\Debug\net10.0\ref\amigo.dll

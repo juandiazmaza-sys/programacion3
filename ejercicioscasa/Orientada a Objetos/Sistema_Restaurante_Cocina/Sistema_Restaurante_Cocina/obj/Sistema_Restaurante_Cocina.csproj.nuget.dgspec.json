@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj": {}
+    "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj": {
+    "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj",
+        "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj",
         "projectName": "Sistema_Restaurante_Cocina",
-        "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj",
+        "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj",
         "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\obj\\",
+        "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

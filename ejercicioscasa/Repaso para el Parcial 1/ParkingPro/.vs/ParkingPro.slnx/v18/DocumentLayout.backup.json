@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Repaso para el Parcial 1\\ParkingPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37959C0B-9C15-4A51-7D03-AB308373B7A6}|ParkingPro\\ParkingPro.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\repaso para el parcial 1\\parkingpro\\parkingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37959C0B-9C15-4A51-7D03-AB308373B7A6}|ParkingPro\\ParkingPro.csproj|solutionrelative:parkingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Repaso para el Parcial 1\\ParkingPro\\ParkingPro\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingPro\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Repaso para el Parcial 1\\ParkingPro\\ParkingPro\\Program.cs",
+              "RelativeToolTip": "ParkingPro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:23:26.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

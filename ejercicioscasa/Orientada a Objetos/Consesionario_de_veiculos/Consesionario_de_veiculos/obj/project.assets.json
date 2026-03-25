@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\Consesionario_de_veiculos.csproj",
+      "projectUniqueName": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\Consesionario_de_veiculos.csproj",
       "projectName": "Consesionario_de_veiculos",
-      "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\Consesionario_de_veiculos.csproj",
+      "projectPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\Consesionario_de_veiculos.csproj",
       "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\obj\\",
+      "outputPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Consesionario_de_veiculos\\Consesionario_de_veiculos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

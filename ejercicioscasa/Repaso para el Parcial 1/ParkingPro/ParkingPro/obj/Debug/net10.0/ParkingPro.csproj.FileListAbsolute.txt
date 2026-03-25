@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\bin\Debug\net10.0\ParkingPro.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\bin\Debug\net10.0\ParkingPro.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\bin\Debug\net10.0\ParkingPro.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\bin\Debug\net10.0\ParkingPro.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\bin\Debug\net10.0\ParkingPro.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\refint\ParkingPro.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ParkingPro.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\ParkingPro\ParkingPro\obj\Debug\net10.0\ref\ParkingPro.dll

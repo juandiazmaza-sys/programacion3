@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\bin\Debug\net10.0\Creador_Estructura_Proyectos.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\bin\Debug\net10.0\Creador_Estructura_Proyectos.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\bin\Debug\net10.0\Creador_Estructura_Proyectos.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\bin\Debug\net10.0\Creador_Estructura_Proyectos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\bin\Debug\net10.0\Creador_Estructura_Proyectos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\refint\Creador_Estructura_Proyectos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\Creador_Estructura_Proyectos.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Creador_Estructura_Proyectos\Creador_Estructura_Proyectos\obj\Debug\net10.0\ref\Creador_Estructura_Proyectos.dll

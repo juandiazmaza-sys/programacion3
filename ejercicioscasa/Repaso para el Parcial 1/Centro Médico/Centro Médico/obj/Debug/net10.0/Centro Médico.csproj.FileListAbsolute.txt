@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\bin\Debug\net10.0\Centro Médico.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\bin\Debug\net10.0\Centro Médico.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\bin\Debug\net10.0\Centro Médico.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\bin\Debug\net10.0\Centro Médico.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\bin\Debug\net10.0\Centro Médico.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\refint\Centro Médico.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\Centro Médico.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\Centro Médico\Centro Médico\obj\Debug\net10.0\ref\Centro Médico.dll

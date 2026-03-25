@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consesionario_de_veiculos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a34657195d493c4cd0257113c0aedf9f70bd2573")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4cb58dc0322622c1f726562c553e6860ed56bd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consesionario_de_veiculos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consesionario_de_veiculos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

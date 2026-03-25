@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\",
+  "WorkspaceRootPath": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\interfaces\\ipreparable..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\interfaces\\ipreparable..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\interfaces\\ipreparable..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\interfaces\\ipreparable..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\ejercicioscasa\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213B341C-5D7E-440C-9F6F-8419872A5943}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|c:\\users\\juan\\documents\\github\\programacion3\\ejercicioscasa\\orientada a objetos\\sistema_restaurante_cocina\\sistema_restaurante_cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1ECFA8-17C5-50CB-2186-23A0D1E163AE}|Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina.csproj|solutionrelative:sistema_restaurante_cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IPreparable..cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Interfaces\\IPreparable..cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,37 +63,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Entrada.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Modelos\\Entrada.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:59:49.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Plato.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
-              "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
-              "RelativeToolTip": "Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:59:29.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:59:49.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
+              "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
+              "RelativeToolTip": "Sistema_Restaurante_Cocina\\Modelos\\Plato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:59:29.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PlatoPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Modelos\\PlatoPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,66 +102,61 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Postre.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Modelos\\Postre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:00:38.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T12:00:38.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Program.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Program.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Program.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:55:16.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:55:16.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TipoComida.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Enums\\TipoComida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:56:46.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:56:46.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "NivelDificultad.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Enums\\NivelDificultad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:57:06.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:57:06.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EstadoOrden.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
               "RelativeDocumentMoniker": "Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\ejercicioscasa\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\ejercicioscasa\\Orientada a Objetos\\Sistema_Restaurante_Cocina\\Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
               "RelativeToolTip": "Sistema_Restaurante_Cocina\\Enums\\EstadoOrden.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:57:31.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:57:31.326Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\bin\Debug\net10.0\Diario_Personal_Bitácora.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\bin\Debug\net10.0\Diario_Personal_Bitácora.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\bin\Debug\net10.0\Diario_Personal_Bitácora.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\bin\Debug\net10.0\Diario_Personal_Bitácora.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\bin\Debug\net10.0\Diario_Personal_Bitácora.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\refint\Diario_Personal_Bitácora.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\Diario_Personal_Bitácora.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Diario_Personal_Bitácora\Diario_Personal_Bitácora\obj\Debug\net10.0\ref\Diario_Personal_Bitácora.dll

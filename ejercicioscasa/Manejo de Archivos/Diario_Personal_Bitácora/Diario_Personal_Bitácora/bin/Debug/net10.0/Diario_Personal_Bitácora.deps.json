@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Diario_Personal_Bitácora/1.0.0": {
+        "runtime": {
+          "Diario_Personal_Bitácora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diario_Personal_Bitácora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

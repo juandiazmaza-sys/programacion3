@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\bin\Debug\net10.0\Gestor_contactos_Simple.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\bin\Debug\net10.0\Gestor_contactos_Simple.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\bin\Debug\net10.0\Gestor_contactos_Simple.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\bin\Debug\net10.0\Gestor_contactos_Simple.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\bin\Debug\net10.0\Gestor_contactos_Simple.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\refint\Gestor_contactos_Simple.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\Gestor_contactos_Simple.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Manejo de Archivos\Gestor_contactos_Simple\Gestor_contactos_Simple\obj\Debug\net10.0\ref\Gestor_contactos_Simple.dll

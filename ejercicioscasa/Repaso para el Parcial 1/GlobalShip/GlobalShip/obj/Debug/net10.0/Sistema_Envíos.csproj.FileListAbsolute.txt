@@ -1,0 +1,15 @@
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\bin\Debug\net10.0\Sistema_Envíos.exe
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\bin\Debug\net10.0\Sistema_Envíos.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\bin\Debug\net10.0\Sistema_Envíos.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\bin\Debug\net10.0\Sistema_Envíos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\bin\Debug\net10.0\Sistema_Envíos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\refint\Sistema_Envíos.dll
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\Sistema_Envíos.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\ejercicioscasa\Repaso para el Parcial 1\GlobalShip\GlobalShip\obj\Debug\net10.0\ref\Sistema_Envíos.dll

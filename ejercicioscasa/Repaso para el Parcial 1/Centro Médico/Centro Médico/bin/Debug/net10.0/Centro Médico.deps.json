@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Centro Médico/1.0.0": {
+        "runtime": {
+          "Centro Médico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Centro Médico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
