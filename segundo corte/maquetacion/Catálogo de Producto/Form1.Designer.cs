@@ -47,7 +47,7 @@
             panel1.Controls.Add(label1);
             panel1.Controls.Add(textBox1);
             panel1.Location = new Point(26, 55);
-            panel1.Margin = new Padding(4, 4, 4, 4);
+            panel1.Margin = new Padding(4);
             panel1.Name = "panel1";
             panel1.Size = new Size(353, 387);
             panel1.TabIndex = 0;
@@ -59,7 +59,7 @@
             btnañadir.FlatStyle = FlatStyle.Flat;
             btnañadir.ForeColor = Color.Snow;
             btnañadir.Location = new Point(39, 285);
-            btnañadir.Margin = new Padding(4, 4, 4, 4);
+            btnañadir.Margin = new Padding(4);
             btnañadir.Name = "btnañadir";
             btnañadir.Size = new Size(186, 41);
             btnañadir.TabIndex = 5;
@@ -70,7 +70,7 @@
             // numCantidad
             // 
             numCantidad.Location = new Point(39, 226);
-            numCantidad.Margin = new Padding(4, 4, 4, 4);
+            numCantidad.Margin = new Padding(4);
             numCantidad.Name = "numCantidad";
             numCantidad.Size = new Size(143, 31);
             numCantidad.TabIndex = 4;
@@ -79,7 +79,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.ForeColor = Color.Crimson;
+            label2.ForeColor = Color.ForestGreen;
             label2.Location = new Point(39, 158);
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
@@ -104,7 +104,7 @@
             // 
             textBox1.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             textBox1.Location = new Point(49, 68);
-            textBox1.Margin = new Padding(4, 4, 4, 4);
+            textBox1.Margin = new Padding(4);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.ReadOnly = true;
@@ -118,7 +118,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(434, 506);
             Controls.Add(panel1);
-            Margin = new Padding(4, 4, 4, 4);
+            Margin = new Padding(4);
             Name = "Form1";
             Text = "Form1";
             panel1.ResumeLayout(false);
