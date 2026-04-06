@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\bin\Debug\net10.0-windows\Catálogo de Producto.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\bin\Debug\net10.0-windows\Catálogo de Producto.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\bin\Debug\net10.0-windows\Catálogo de Producto.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\bin\Debug\net10.0-windows\Catálogo de Producto.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\bin\Debug\net10.0-windows\Catálogo de Producto.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo_de_Producto.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\refint\Catálogo de Producto.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\Catálogo de Producto.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Catálogo de Producto\obj\Debug\net10.0-windows\ref\Catálogo de Producto.dll
