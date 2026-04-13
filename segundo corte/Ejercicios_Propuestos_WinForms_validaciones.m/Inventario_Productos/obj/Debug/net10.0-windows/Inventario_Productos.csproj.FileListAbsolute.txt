@@ -1,0 +1,17 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\bin\Debug\net10.0-windows\Inventario_Productos.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\bin\Debug\net10.0-windows\Inventario_Productos.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\bin\Debug\net10.0-windows\Inventario_Productos.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\bin\Debug\net10.0-windows\Inventario_Productos.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\bin\Debug\net10.0-windows\Inventario_Productos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Gestión_de_Inventario_de_Productos.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\refint\Inventario_Productos.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\Inventario_Productos.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\Inventario_Productos\obj\Debug\net10.0-windows\ref\Inventario_Productos.dll

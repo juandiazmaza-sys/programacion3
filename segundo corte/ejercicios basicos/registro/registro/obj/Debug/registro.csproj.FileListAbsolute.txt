@@ -1,0 +1,10 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\bin\Debug\registro.exe.config
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\bin\Debug\registro.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\bin\Debug\registro.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.csproj.AssemblyReference.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.Properties.Resources.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\ejercicios basicos\registro\registro\obj\Debug\registro.pdb

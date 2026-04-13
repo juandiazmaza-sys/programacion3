@@ -1,0 +1,17 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\bin\Debug\net10.0-windows\sistema_registro_empleado.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\bin\Debug\net10.0-windows\sistema_registro_empleado.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\bin\Debug\net10.0-windows\sistema_registro_empleado.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\bin\Debug\net10.0-windows\sistema_registro_empleado.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\bin\Debug\net10.0-windows\sistema_registro_empleado.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\REGISTRO_EMPLEADOS.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\refint\sistema_registro_empleado.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\sistema_registro_empleado.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\sistema_registro_empleado\obj\Debug\net10.0-windows\ref\sistema_registro_empleado.dll

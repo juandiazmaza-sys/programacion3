@@ -1,0 +1,10 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\bin\Debug\sistema_matriculacion.exe.config
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\bin\Debug\sistema_matriculacion.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\bin\Debug\sistema_matriculacion.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.csproj.AssemblyReference.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.FrmMatricula.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.Properties.Resources.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Retos_Programacion_WinForms_validaciones.md\sistema_matriculacion\sistema_matriculacion\obj\Debug\sistema_matriculacion.pdb

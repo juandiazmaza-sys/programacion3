@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\bin\Debug\net10.0-windows\REGISTRO EMPLEADOS.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\bin\Debug\net10.0-windows\REGISTRO EMPLEADOS.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\bin\Debug\net10.0-windows\REGISTRO EMPLEADOS.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\bin\Debug\net10.0-windows\REGISTRO EMPLEADOS.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\bin\Debug\net10.0-windows\REGISTRO EMPLEADOS.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO_EMPLEADOS.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\refint\REGISTRO EMPLEADOS.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\REGISTRO EMPLEADOS.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\REGISTRO EMPLEADOS\obj\Debug\net10.0-windows\ref\REGISTRO EMPLEADOS.dll

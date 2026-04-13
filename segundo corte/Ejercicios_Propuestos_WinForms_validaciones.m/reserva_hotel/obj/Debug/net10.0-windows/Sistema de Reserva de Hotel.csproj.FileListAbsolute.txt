@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\bin\Debug\net10.0-windows\Sistema de Reserva de Hotel.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\bin\Debug\net10.0-windows\Sistema de Reserva de Hotel.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\bin\Debug\net10.0-windows\Sistema de Reserva de Hotel.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\bin\Debug\net10.0-windows\Sistema de Reserva de Hotel.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\bin\Debug\net10.0-windows\Sistema de Reserva de Hotel.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema_de_Reserva_de_Hotel.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\refint\Sistema de Reserva de Hotel.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\Sistema de Reserva de Hotel.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Sistema de Reserva de Hotel\obj\Debug\net10.0-windows\ref\Sistema de Reserva de Hotel.dll
