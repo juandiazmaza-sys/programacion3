@@ -232,24 +232,26 @@
             // 
             // btnGuardar
             // 
+            btnGuardar.BackColor = SystemColors.ControlDarkDark;
             btnGuardar.Location = new Point(326, 583);
             btnGuardar.Margin = new Padding(4);
             btnGuardar.Name = "btnGuardar";
             btnGuardar.Size = new Size(118, 36);
             btnGuardar.TabIndex = 14;
             btnGuardar.Text = "agregar";
-            btnGuardar.UseVisualStyleBackColor = true;
+            btnGuardar.UseVisualStyleBackColor = false;
             btnGuardar.Click += btnGuardar_Click;
             // 
             // btnLimpiar
             // 
+            btnLimpiar.BackColor = SystemColors.ControlDarkDark;
             btnLimpiar.Location = new Point(665, 583);
             btnLimpiar.Margin = new Padding(4);
             btnLimpiar.Name = "btnLimpiar";
             btnLimpiar.Size = new Size(118, 36);
             btnLimpiar.TabIndex = 15;
             btnLimpiar.Text = "Limpiar";
-            btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.UseVisualStyleBackColor = false;
             btnLimpiar.Click += btnLimpiar_Click;
             // 
             // errorProvider1

@@ -88,7 +88,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(422, 125);
+            label3.Location = new Point(413, 51);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
             label3.Size = new Size(57, 25);
@@ -97,7 +97,7 @@
             // 
             // dtpSalida
             // 
-            dtpSalida.Location = new Point(422, 154);
+            dtpSalida.Location = new Point(413, 95);
             dtpSalida.Margin = new Padding(4);
             dtpSalida.Name = "dtpSalida";
             dtpSalida.Size = new Size(340, 31);
@@ -129,7 +129,7 @@
             // 
             clbServicios.FormattingEnabled = true;
             clbServicios.Items.AddRange(new object[] { "WiFi Premium", "Desayuno Buffet", "Estacionamiento", "Spa" });
-            clbServicios.Location = new Point(39, 321);
+            clbServicios.Location = new Point(39, 341);
             clbServicios.Margin = new Padding(4);
             clbServicios.Name = "clbServicios";
             clbServicios.Size = new Size(186, 116);
@@ -138,7 +138,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(39, 292);
+            label5.Location = new Point(39, 312);
             label5.Margin = new Padding(4, 0, 4, 0);
             label5.Name = "label5";
             label5.Size = new Size(173, 25);
@@ -147,7 +147,7 @@
             // 
             // rtbResumen
             // 
-            rtbResumen.Location = new Point(331, 302);
+            rtbResumen.Location = new Point(327, 271);
             rtbResumen.Margin = new Padding(4);
             rtbResumen.Name = "rtbResumen";
             rtbResumen.ReadOnly = true;
@@ -158,7 +158,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(331, 259);
+            label6.Location = new Point(346, 208);
             label6.Margin = new Padding(4, 0, 4, 0);
             label6.Name = "label6";
             label6.Size = new Size(196, 25);
@@ -167,24 +167,26 @@
             // 
             // btnCalcularReserva
             // 
-            btnCalcularReserva.Location = new Point(74, 491);
+            btnCalcularReserva.BackColor = SystemColors.AppWorkspace;
+            btnCalcularReserva.Location = new Point(134, 513);
             btnCalcularReserva.Margin = new Padding(4);
             btnCalcularReserva.Name = "btnCalcularReserva";
             btnCalcularReserva.Size = new Size(195, 36);
             btnCalcularReserva.TabIndex = 12;
             btnCalcularReserva.Text = "calcular";
-            btnCalcularReserva.UseVisualStyleBackColor = true;
+            btnCalcularReserva.UseVisualStyleBackColor = false;
             btnCalcularReserva.Click += btnCalcularReserva_Click;
             // 
             // Limpiar
             // 
-            Limpiar.Location = new Point(452, 491);
+            Limpiar.BackColor = SystemColors.ButtonShadow;
+            Limpiar.Location = new Point(413, 513);
             Limpiar.Margin = new Padding(4);
             Limpiar.Name = "Limpiar";
-            Limpiar.Size = new Size(118, 36);
+            Limpiar.Size = new Size(175, 36);
             Limpiar.TabIndex = 13;
             Limpiar.Text = "limpiar";
-            Limpiar.UseVisualStyleBackColor = true;
+            Limpiar.UseVisualStyleBackColor = false;
             Limpiar.Click += Limpiar_Click;
             // 
             // errorProvider1

@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\segundo corte\\Ejercicios_Propuestos_WinForms_validaciones.m\\reserva_hotel\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\segundo corte\\Ejercicios_Propuestos_WinForms_validaciones.m\\reserva_hotel\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\segundo corte\\Ejercicios_Propuestos_WinForms_validaciones.m\\reserva_hotel\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T04:37:38.209Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\juan\\Documents\\GitHub\\programacion3\\segundo corte\\Ejercicios_Propuestos_WinForms_validaciones.m\\reserva_hotel\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T04:35:45.367Z",
               "EditorCaption": ""

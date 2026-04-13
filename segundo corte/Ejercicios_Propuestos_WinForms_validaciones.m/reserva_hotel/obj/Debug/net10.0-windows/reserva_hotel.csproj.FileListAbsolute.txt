@@ -1,0 +1,17 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\bin\Debug\net10.0-windows\reserva_hotel.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\bin\Debug\net10.0-windows\reserva_hotel.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\bin\Debug\net10.0-windows\reserva_hotel.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\bin\Debug\net10.0-windows\reserva_hotel.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\bin\Debug\net10.0-windows\reserva_hotel.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\Sistema_de_Reserva_de_Hotel.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\refint\reserva_hotel.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\reserva_hotel.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Ejercicios_Propuestos_WinForms_validaciones.m\reserva_hotel\obj\Debug\net10.0-windows\ref\reserva_hotel.dll

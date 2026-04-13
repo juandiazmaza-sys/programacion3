@@ -1,116 +1,156 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Windows.Forms;
+
 namespace Sistema_de_Reserva_de_Hotel
 {
+  
     public partial class Form1 : Form
     {
-        // --- CONSTANTES DE COSTO (Faltaban en tu código) ---
-        const decimal COSTO_NOCHE_BASE = 50m;
-        const decimal COSTO_PERSONA_EXTRA = 15m;
-        const decimal COSTO_SERVICIO_DIARIO = 10m;
         public Form1()
         {
             InitializeComponent();
+            ConfiguracionInicial();
+        }
+
+        private void ConfiguracionInicial()
+        {
+            // Valores por defecto al iniciar
             dtpEntrada.Value = DateTime.Today;
             dtpSalida.Value = DateTime.Today.AddDays(1);
+            numPersonas.Value = 1;
+            txtCliente.Focus();
         }
 
         private void btnCalcularReserva_Click(object sender, EventArgs e)
         {
+            // 1. Limpiar notificaciones de error previas
             errorProvider1.Clear();
-            rtbResumen.Clear();
 
-            if (ValidarReserva())
+            // 2. Validar si los datos ingresados son correctos
+            if (ValidarFormulario())
             {
-                CalcularYMostrarResumen();
+                EjecutarCalculoReserva();
             }
         }
 
-
-        private bool ValidarReserva()
+        private bool ValidarFormulario()
         {
             bool esValido = true;
 
-            // 1. Validar nombre del cliente
             if (string.IsNullOrWhiteSpace(txtCliente.Text))
             {
-                errorProvider1.SetError(txtCliente, "El nombre del cliente es obligatorio.");
+                errorProvider1.SetError(txtCliente, "El nombre del cliente es necesario.");
                 esValido = false;
             }
 
-            // 2. Validar Fecha de Entrada (No anterior a hoy)
             if (dtpEntrada.Value.Date < DateTime.Today)
             {
-                errorProvider1.SetError(dtpEntrada, "La fecha de entrada no puede ser anterior a hoy.");
+                errorProvider1.SetError(dtpEntrada, "No se puede reservar en fechas pasadas.");
                 esValido = false;
             }
 
-            // 3. Validar Fecha de Salida (Al menos un día después de entrada)
             if (dtpSalida.Value.Date <= dtpEntrada.Value.Date)
             {
-                errorProvider1.SetError(dtpSalida, "La fecha de salida debe ser al menos un día posterior a la entrada.");
+                errorProvider1.SetError(dtpSalida, "La salida debe ser después de la entrada.");
                 esValido = false;
             }
 
             return esValido;
         }
 
-
-        private void CalcularYMostrarResumen()
+        private void EjecutarCalculoReserva()
         {
-            // Cálculo de días usando TimeSpan
-            TimeSpan diferencia = dtpSalida.Value.Date - dtpEntrada.Value.Date;
-            int noches = diferencia.Days;
+            // Creamos el objeto de la clase lógica (abajo definida)
+            CalculadoraReserva calculadora = new CalculadoraReserva();
 
-            // Lógica de Costos
-            decimal costoHospedaje = noches * COSTO_NOCHE_BASE;
+            // Pasamos los datos del formulario a la lógica
+            calculadora.NombreHuesped = txtCliente.Text.Trim();
+            calculadora.DiasEstancia = (dtpSalida.Value.Date - dtpEntrada.Value.Date).Days;
+            calculadora.CantidadPersonas = (int)numPersonas.Value;
 
-            // Personas adicionales (a partir de la segunda)
-            decimal costoPersonasExtra = 0;
-            if (numPersonas.Value > 1)
-            {
-                costoPersonasExtra = (numPersonas.Value - 1) * COSTO_PERSONA_EXTRA * noches;
-            }
-
-            // Servicios adicionales (CheckedListBox)
-            decimal costoServicios = 0;
-            List<string> serviciosSeleccionados = new List<string>();
-
+            // Recorremos el CheckedListBox para los servicios
             foreach (var item in clbServicios.CheckedItems)
             {
-                serviciosSeleccionados.Add(item.ToString());
-                costoServicios += COSTO_SERVICIO_DIARIO * noches;
+                calculadora.ServiciosEspeciales.Add(item.ToString());
             }
 
-            decimal totalFinal = costoHospedaje + costoPersonasExtra + costoServicios;
+            // Mostramos el resultado final
+            ImprimirResumen(calculadora);
+        }
 
-            // Construcción del Resumen en el RichTextBox
-            rtbResumen.AppendText("--- RESUMEN DE RESERVA ---\n");
-            rtbResumen.AppendText($"Cliente: {txtCliente.Text}\n");
-            rtbResumen.AppendText($"Estancia: {noches} noches.\n");
-            rtbResumen.AppendText($"Personas: {numPersonas.Value}\n");
-            rtbResumen.AppendText($"Servicios: {(serviciosSeleccionados.Count > 0 ? string.Join(", ", serviciosSeleccionados) : "Ninguno")}\n");
-            rtbResumen.AppendText("--------------------------\n");
-            rtbResumen.AppendText($"TOTAL A PAGAR: {totalFinal:C2}");
+        private void ImprimirResumen(CalculadoraReserva cal)
+        {
+            rtbResumen.Clear();
+            StringBuilder reporte = new StringBuilder();
+
+            reporte.AppendLine("   ╔═════════════════════════════════╗");
+            reporte.AppendLine("      CONFIRMACIÓN DE RESERVACIÓN     ");
+            reporte.AppendLine("   ╚═════════════════════════════════╝");
+            reporte.AppendLine($"   CLIENTE: {cal.NombreHuesped.ToUpper()}");
+            reporte.AppendLine($"   NOCHES:  {cal.DiasEstancia}");
+            reporte.AppendLine($"   GRUPO:   {cal.CantidadPersonas} persona(s)");
+
+            string serviciosTexto = cal.ServiciosEspeciales.Count > 0
+                ? string.Join(", ", cal.ServiciosEspeciales)
+                : "Ninguno";
+
+            reporte.AppendLine($"   EXTRAS:  {serviciosTexto}");
+            reporte.AppendLine("   -----------------------------------");
+            reporte.AppendLine($"   VALOR TOTAL: {cal.ObtenerTotal():C2}");
+            reporte.AppendLine("   -----------------------------------");
+
+            rtbResumen.Text = reporte.ToString();
         }
 
         private void Limpiar_Click(object sender, EventArgs e)
         {
+            // Resetear todos los controles
             txtCliente.Clear();
-            dtpEntrada.Value = DateTime.Today;
-            dtpSalida.Value = DateTime.Today.AddDays(1);
-            numPersonas.Value = 1;
+            ConfiguracionInicial();
             rtbResumen.Clear();
             errorProvider1.Clear();
 
-            // Desmarcar todos los servicios del CheckedListBox
             for (int i = 0; i < clbServicios.Items.Count; i++)
             {
                 clbServicios.SetItemChecked(i, false);
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
+        private void Form1_Load(object sender, EventArgs e) { }
+    }
 
+    
+    public class CalculadoraReserva
+    {
+        // Propiedades de datos
+        public string NombreHuesped { get; set; }
+        public int DiasEstancia { get; set; }
+        public int CantidadPersonas { get; set; }
+        public List<string> ServiciosEspeciales { get; set; } = new List<string>();
+
+        // Precios fijos (puedes cambiarlos aquí si necesitas)
+        private const decimal PRECIO_POR_NOCHE = 50.00m;
+        private const decimal RECARGO_POR_PERSONA = 15.00m;
+        private const decimal PRECIO_POR_SERVICIO = 10.00m;
+
+        public decimal ObtenerTotal()
+        {
+            // 1. Costo base del alojamiento
+            decimal totalHospedaje = DiasEstancia * PRECIO_POR_NOCHE;
+
+            // 2. Si hay más de una persona, sumamos el extra por noche
+            decimal totalExtra = 0;
+            if (CantidadPersonas > 1)
+            {
+                totalExtra = (CantidadPersonas - 1) * RECARGO_POR_PERSONA * DiasEstancia;
+            }
+
+            // 3. Servicios adicionales multiplicados por la duración
+            decimal totalServicios = ServiciosEspeciales.Count * PRECIO_POR_SERVICIO * DiasEstancia;
+
+            return totalHospedaje + totalExtra + totalServicios;
         }
     }
 }
