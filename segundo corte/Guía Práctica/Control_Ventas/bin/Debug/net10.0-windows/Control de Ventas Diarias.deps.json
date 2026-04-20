@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Control de Ventas Diarias/1.0.0": {
+        "runtime": {
+          "Control de Ventas Diarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Control de Ventas Diarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

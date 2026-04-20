@@ -1,0 +1,34 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\bin\Debug\net10.0-windows\Control de Ventas Diarias.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\bin\Debug\net10.0-windows\Control de Ventas Diarias.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\bin\Debug\net10.0-windows\Control de Ventas Diarias.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\bin\Debug\net10.0-windows\Control de Ventas Diarias.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\bin\Debug\net10.0-windows\Control de Ventas Diarias.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control_de_Ventas_Diarias.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\refint\Control de Ventas Diarias.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\Control de Ventas Diarias.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Control de Ventas Diarias\obj\Debug\net10.0-windows\ref\Control de Ventas Diarias.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\bin\Debug\net10.0-windows\Control de Ventas Diarias.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\bin\Debug\net10.0-windows\Control de Ventas Diarias.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\bin\Debug\net10.0-windows\Control de Ventas Diarias.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\bin\Debug\net10.0-windows\Control de Ventas Diarias.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\bin\Debug\net10.0-windows\Control de Ventas Diarias.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control_de_Ventas_Diarias.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\refint\Control de Ventas Diarias.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\Control de Ventas Diarias.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Control_Ventas\obj\Debug\net10.0-windows\ref\Control de Ventas Diarias.dll

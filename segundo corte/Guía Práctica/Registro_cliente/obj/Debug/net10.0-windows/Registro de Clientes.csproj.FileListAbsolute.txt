@@ -1,0 +1,17 @@
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro_de_Clientes.Form1.resources
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.csproj.GenerateResource.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.AssemblyInfoInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.AssemblyInfo.cs
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.sourcelink.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\bin\Debug\net10.0-windows\Registro de Clientes.exe
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\bin\Debug\net10.0-windows\Registro de Clientes.deps.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\bin\Debug\net10.0-windows\Registro de Clientes.runtimeconfig.json
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\bin\Debug\net10.0-windows\Registro de Clientes.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\bin\Debug\net10.0-windows\Registro de Clientes.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\refint\Registro de Clientes.dll
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.pdb
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\Registro de Clientes.genruntimeconfig.cache
+C:\Users\juan\Documents\GitHub\programacion3\segundo corte\Guía Práctica\Registro_cliente\obj\Debug\net10.0-windows\ref\Registro de Clientes.dll

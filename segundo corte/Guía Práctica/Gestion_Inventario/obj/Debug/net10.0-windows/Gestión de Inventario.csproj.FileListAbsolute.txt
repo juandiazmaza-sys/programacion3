@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\bin\Debug\net10.0-windows\Gestión de Inventario.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\bin\Debug\net10.0-windows\Gestión de Inventario.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\bin\Debug\net10.0-windows\Gestión de Inventario.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\bin\Debug\net10.0-windows\Gestión de Inventario.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\bin\Debug\net10.0-windows\Gestión de Inventario.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión_de_Inventario.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\refint\Gestión de Inventario.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\Gestión de Inventario.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Gestión de Inventario\obj\Debug\net10.0-windows\ref\Gestión de Inventario.dll
